@@ -2,19 +2,19 @@ It was hot, the night we burned Chrome.
 我们对chromes下手是一个炎热的晚上。
 
 Out in the malls and plazas, moths were batting themselves to death against the neon,
-窗外的商场霓虹灯火辉煌 飞蛾死命地撞击着灯箱
+窗外的商场霓虹灯火辉煌 飞蛾拼命撞击着灯箱
 
 but in Bobby's loft the only light came from a monitor screen and the green and red LEDs on the face of the matrix simulator.
-bobby的房间里一片漆黑 唯一发着光的只有一个显示屏和主机上红色和绿色的LED指示灯
+bobby的阁楼里一片漆黑 唯一发光的只有一个显示屏和主机上红色和绿色的LED指示灯
 
 I knew every chip in Bobby's simulator by heart;
-我对主机里的每块芯片都了如指掌
+我对bobby主机里的每块芯片都了如指掌
 
 it looked like your workaday Ono-Sendai VII. the "Cyberspace Seven,"
 它看上去只是一台普通办公室用的小野仙台VII 也叫赛博空间七代
 
 but I'd rebuilt it so many time that you'd have had a hard time finding a square millimeter of factory circuitry in all that silicon.
-但每块芯片都经过了我的反复重构 每一平方毫米的电路都和出厂时完全不同
+但其实每块芯片都经过了我的反复重构 每一平方毫米面积上的电路都已经变得和出厂时完全不同
 
 We waited side by side in front of the simulator console, watching the time display in the screen's lower left corner.
 我们并排坐在机器前面 盯着屏幕左下方的时间
@@ -23,55 +23,155 @@ We waited side by side in front of the simulator console, watching the time disp
 时间到了 我说 上吧
 
 but Bobby was already there, leaning forward to drive the Russian program into its slot with the heel of his hand.
-但是bobby已经上了 他前倾身体 用掌根把俄国程序的磁带塞进了插槽
+bobby已经上了 他前倾身体 用掌根把装着俄国程序的卡带塞进插槽
 
 He did it with the tight grace of a kid slamming change into an arcade game, sure of winning and ready to pull down a string of free games.
-仿佛像是个小男孩摆出一副必胜的架势 把铜板塞进街机里
+仿佛像是个小男孩摆出一副必胜的架势 把铜板塞进街机 准备赢得一系列免费游戏
 
 A silver tide of phosphenes boiled across my field of vision as the matrix began to unfold in my head,
-随着矩阵在我头脑里展开 一片银色波浪在我视线里翻滚了起来
+随着整个赛博空间在我头脑里展开 一片银色的波浪在我视线里翻滚起来
 
 a 3-D chessboard, infinite and perfectly transparent.
-这是一片无边无际透明3D棋盘 
+就像是一片无边无际的透明的3D棋盘 
 
 The Russian program seemed to lurch as we entered the grid.
-刚刚进来 我们的俄国程序似乎还在休眠
+我们的俄国程序似乎还在休眠
 
 If anyone else had been jacked into that part of the matrix,
 如果有人碰巧路过
 
 he might have seen a surf of flickering shadow roll out of the little yellow pyramid that represented our computer.
-他会看见一座黄色的金字塔缓缓展开闪烁着的阴影 这就是我们电脑在矩阵中的形象
+他会看见一座黄色的金字塔缓缓展开它闪烁着的阴影 这就是我们的主机在赛博空间中的形象
 
 The program was a mimetic weapon,
 我们的俄国程序是个拟态武器
 
 designed to absorb local color and present itself as a crashpriority override in whatever context it encountered.
-可以以系统最高优先级重写代码 把自己伪装融入它所遇到的任何背景里
+可以以系统最高优先级执行代码重写 伪装自己 融入它所在的任何背景里
 
 "Congratulations," I heard Bobby say. "We just became an Eastern Seaboard Fission Authority inspection probe...."
-恭喜 bobby说 我们已经成为了东海岸核裂变管理局的稽查程序
+好样的 bobby说 我们已经变成了东海岸核裂变管理局的稽查程序
 
 That meant we were clearing fiberoptic lines with the cybernetic equivalent of a fire siren,
-这意味着我们可以像拉着警笛的消防车一样在虚拟空间里横冲直撞
+这意味着我们可以像拉着警笛的消防车一样在整个赛博空间里横冲直撞
 
 but in the simulation matrix we seemed to rush straight for Chrome's data base.
-我们直接冲向chrome的数据库
+但是我们今天的目标是chrome的数据库
 
 I couldn't see it yet, but I already knew those walls were waiting.
-虽然还没看见 但我已经知道哪些墙正在等着我们
+虽然还看不见 但我知道那些墙正在等着我们
 
 Walls of shadow, walls of ice.
-Chrome: her pretty childface smooth as steel, with eyes that would have been at home on the bottom of some deep Atlantic trench, cold gray eyes that lived under terrible pressure. They s~id she cooked her own cancers for people who crossed her, rococo custom variations that took years to kill you. They said a lot of things about Chrome, none of them at all reassuring.
-So I blotted her out with a picture of Rikki. Rikki kneeling in a shaft of dusty sunlight that slanted into the loft through a grid of steel and glass: her faded camouflage fatigues, her translucent rose sandals, the good line of her bare back as she rummaged through a nylon gear bag. She looks up, and a half-blond curl falls to tickle her nose. Smiling, buttoning an old shirt of Bobby's, frayed khaki cotton drawn across her breasts. She smiles.
-"Son of a bitch," said Bobby, "we just told Chrome we're an IRS audit and three Supreme Court subpoenas.... Hang on to your ass, Jack.~. .
+阴影之墙 冰之墙
+
+Chrome: her pretty childface smooth as steel,
+chrome 她美丽的娃娃脸像钢铁一样光滑
+
+with eyes that would have been at home on the bottom of some deep Atlantic trench,
+眼睛像大西洋的海沟一样深邃
+
+cold gray eyes that lived under terrible pressure.
+那是生活在巨大压力下才有的冰冷的灰色眼睛
+
+They said she cooked her own cancers for people who crossed her,
+他们说她会亲自设计残酷的手段来惩罚那些得罪了她的人
+
+rococo custom variations that took years to kill you.
+就像洛可可风格的癌症 先用几年时间让你受尽折磨 最后再要了你的命
+
+They said a lot of things about Chrome, none of them at all reassuring.
+他们说过了很多关于chrome的事 没有一件不让人毛骨悚然
+
+So I blotted her out with a picture of Rikki.
+我试图从脑海中赶走chrome 于是我开始回忆rikki
+
+
+Rikki kneeling in a shaft of dusty sunlight that slanted into the loft through a grid of steel and glass:
+一束阳光从窗户斜射进boby的阁楼 空气中微尘飞扬 rikki正跪在这束光里
+
+her faded camouflage fatigues, her translucent rose sandals,
+她穿着褪了色的迷彩裤 玫瑰色的透明凉鞋
+
+the good line of her bare back
+裸露的后背线条优美
+
+as she rummaged through a nylon gear bag.
+她正在一个尼龙工具包里摸索着什么
+
+She looks up, and a half-blond curl falls to tickle her nose.
+她抬起头 一缕一半是金色的卷发落下来 轻轻拂着她的鼻子
+
+Smiling, buttoning an old shirt of Bobby's,
+她看见我 一边微笑 一边把身上穿着的bobby的旧衬衫扣子扣上
+
+frayed khaki cotton drawn across her breasts.
+衬衫已经磨损了的卡其色棉布就这样从她胸前垂搭下来
+
+She smiles.
+我永远记住了她微笑的样子
+
+
+"Son of a bitch," said Bobby, "we just told Chrome we're an IRS audit and three Supreme Court subpoenas....
+婊子养的 bobby说 我们刚告诉了chrome的系统说我们是一个国税局的审计程序和三个最高法院的传票
+
+Hang on to your ass, Jack...
+坐稳了jack 好戏马上开始
+
+
 So long, Rikki. Maybe now I see you never.
-And dark, so dark, in the halls of Chromes s ice.
+再见 rikki 我想也许我再也见不到你了
 
-Bobby was a cowboy, and ice was the nature of his game, ice from ICE, Intrusion Countermeasures Electronics. The matrix is an abstract representation of the relationships between data systems. Legitimate programmers jack into their employers' sector of the matrix and find themselves surrounded by bright geometries representing the corporate data.
 
-Towers and fields of it ranged in the colorless nonspace of the simulation matrix, the electronic consensus-hallucination that facilitates the handling and exchange of massive quantities of data. Legitimate programmers never see the walls of ice they work behind, the walls of shadow that screen their operations from others, from industrial-espionage artists and hustlers like Bobby Quine.
-Bobby was a cowboy. Bobby was a cracksman, a burglar, casing mankind's extended electronic nervous system, rustling data and credit in the crowded matrix, monochrome nonspace where the only stars are dense concentrations of information, and high above it all burn corporate galaxies and the cold spiral arms of military systems.
+And dark, so dark, in the halls of Chromes's ice.
+一片黑暗 chrome那由冰组成的大厅里透不进一丝亮光
+
+Bobby was a cowboy, and ice was the nature of his game,
+bobby是黑客 冰是他工作的主角
+
+ice from ICE, Intrusion Countermeasures Electronics.
+冰 ICE 是网络入侵防御系统的英文缩写
+
+The matrix is an abstract representation of the relationships between data systems.
+赛博空间是各数据系统间关系的抽象表达
+
+Legitimate programmers jack into their employers' sector of the matrix
+遵纪守法的程序员们访问自己雇主的数据时
+
+and find themselves surrounded by bright geometries representing the corporate data.
+会发现自己被明亮的线条和图形所包围 这些是他们公司的数据
+
+Towers and fields of it
+这些由数据组成的林立高塔和广阔田野
+
+ranged in the colorless nonspace of the simulation matrix,
+就这样有序地坐落在赛博空间无色的虚无空间之中
+
+the electronic consensus-hallucination that facilitates the handling and exchange of massive quantities of data.
+数据的大规模处理和交换就是在这样的规则下进行
+
+Legitimate programmers never see the walls of ice they work behind,
+但是他们看不见他们身后的冰墙
+
+the walls of shadow that screen their operations from others,
+这些墙把他们的操作和其他人隔离开来
+
+from industrial-espionage artists and hustlers like Bobby Quine.
+让他们远离行业间谍以及bobby quine这样的网络盗贼
+
+Bobby was a cowboy.
+
+Bobby was a cracksman, a burglar,
+
+casing mankind's extended electronic nervous system,
+
+rustling data and credit in the crowded matrix,
+
+monochrome nonspace where the only stars are dense concentrations of information,
+
+and high above it all burn corporate galaxies and the cold spiral arms of military systems.
+
+
+
 Bobby was another one of those young-old faces you see drinking in the Gentleman Loser, the chic bar for computer cowboys, rustlers, cybernetic second-story men. We were partners.
 Bobby Quine and Automatic Jack. Bobby's the thin, pale dude with the dark glasses, and Jack's the mean-looking guy with the myoelectric arm. Bobby's software and Jack's hard; Bobby punches console and Jack runs down all the little things that can give you an edge. Or, anyway, that's what the scene watchers in the Gentleman Loser would've told you, before Bobby decided to burn Chrome. But they also might've told you that Bobby was losing his edge, slowing down. He was twenty-eight, Bobby, and that's old for a console cowboy.
 Both of us were good at what we did, but somehow that one big score just wouldn't come down for us. I knew where to go for the right gear, and Bobby had all his licks down pat. He'd sit back with a white terry sweatband across his forehead and whip moves on those keyboards faster than you could follow, punching his way through some of the fanciest ice in the business, but that was when something happened that managed to get him totally wired, and that didn't happen often. Not highly motivated, Bobby, and I was the kind of guy who's happy to have the rent covered and a clean shirt to wear.
