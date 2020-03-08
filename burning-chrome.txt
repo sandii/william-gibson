@@ -144,7 +144,7 @@ Towers and fields of it
 这些由数据组成的林立高塔和广阔田野
 
 ranged in the colorless nonspace of the simulation matrix,
-就这样有序地坐落在赛博空间无色的虚无空间之中
+有序地坐落在赛博空间无色的虚无空间之中
 
 the electronic consensus-hallucination that facilitates the handling and exchange of massive quantities of data.
 数据的大规模处理和交换就是在这样的规则下进行
@@ -158,18 +158,26 @@ the walls of shadow that screen their operations from others,
 from industrial-espionage artists and hustlers like Bobby Quine.
 让他们远离行业间谍以及bobby quine这样的网络盗贼
 
-Bobby was a cowboy.
-
-Bobby was a cracksman, a burglar,
+Bobby was a cowboy. Bobby was a cracksman, a burglar,
+bobby是个黑客
 
 casing mankind's extended electronic nervous system,
+穿梭在人类神经系统的电子延伸里
 
 rustling data and credit in the crowded matrix,
+在这个拥挤的赛博空间里窃取数据和金钱
 
-monochrome nonspace where the only stars are dense concentrations of information,
+monochrome nonspace
+在这个只有黑白两色的虚无空间里
 
-and high above it all burn corporate galaxies and the cold spiral arms of military systems.
+where the only stars are dense concentrations of information,
+聚集在一起的信息组成了明亮的恒星
 
+and high above it all burn corporate galaxies
+在这一切之上 闪耀着由大型企业数据组成的庞大星系
+
+and the cold spiral arms of military systems.
+以及军事系统冰冷的悬臂
 
 
 Bobby was another one of those young-old faces you see drinking in the Gentleman Loser, the chic bar for computer cowboys, rustlers, cybernetic second-story men. We were partners.
